@@ -63,6 +63,7 @@ Any comments, suggestions? [Let us know!](https://github.com/quilloughbee/awesom
 ## Telegram Bots
 
 - [Einundzwanzig Bot](https://github.com/Einundzwanzig-Podcast/einundzwanzigbot) - Einundzwanzig Community Bot
+- [Dezentralschweiz Bot](https://github.com/gillohner/dezentralschweiz_bot) - Dezentralschweiz Community Bot with NOSTR Calendar integration.
 
 ## Companies & Organizations
 
